@@ -9,7 +9,6 @@ In the future planning to become a professional front-end developer.
 I improve and practice **HTML**, **CSS**, **JS** every day. 
 I am learning how to create pages by layouts and post my work on *GitHub*. 
 ## **Education:** higher, mechanical engineer. Graduated from the Belarusian-Russian University.
-## **Example of my work:** https://andreykolesnev.github.io
 ## **Courses:**   
   * SoloLearn: HTML - fundamential course december 2020.
   * SoloLearn: CSS - fundamential course december 2020.
